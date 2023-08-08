@@ -11,3 +11,4 @@ Assignment 3: Recurrent Neural Network
 
 Assignment 4: Autoencoders and PCA
 
+# Tutorials
